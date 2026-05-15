@@ -1,0 +1,21 @@
+schema_version: 1
+name: agent-escrow
+version: "1.0.0"
+description: "AI-powered escrow agent for freelance payments, NFT commissions, and micro-services on X Layer with auto-verification and dispute resolution"
+author:
+  name: "oliva9595"
+  github: "oliva9595"
+license: MIT
+category: defi-protocol
+tags:
+  - escrow
+  - payments
+  - xlayer
+  - x402
+  - freelance
+
+components:
+  skill:
+    dir: "."
+
+api_calls: []
